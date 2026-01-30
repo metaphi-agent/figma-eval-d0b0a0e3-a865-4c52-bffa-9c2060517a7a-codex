@@ -1,0 +1,20 @@
+{
+  "figma_file_key": "k2bdT6zWR5MqAErDVWTzR5",
+  "colors": {
+    "title_active": "#14142a",
+    "body": "#4e4b66",
+    "label": "#6e7191",
+    "placeholder": "#a0a3bd",
+    "primary": "#db4444",
+    "primary_hover": "#e07575",
+    "secondary": "#1cc8ee",
+    "error": "#ed2e7e",
+    "success": "#00ba88",
+    "warning": "#f4b740",
+    "background": "#ffffff"
+  },
+  "notes": [
+    "Tokens sampled from Colors page export (figma-to-code/exports/colors-overview/FRAME/Colors.png).",
+    "Gradients and additional grayscale tokens can be added if/when needed for component-level implementation."
+  ]
+}
