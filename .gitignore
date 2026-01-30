@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+
+# local artifacts
+transcript.jsonl
+figma-to-code/exports/
+ground_truth/
+public/assets/ground_truth/
